@@ -1,20 +1,4 @@
 
-        body {
-            background-color: #3b1f4a; /* Purple background */
-            color: #ffffff; /* White text */
-            margin: 0; /* Remove default margin */
-            padding: 0; /* Remove default padding */
-            font-family: 'Arial', sans-serif; /* Choose your preferred font */
-        }
-
-        h1, h2, h3 {
-            color: #ffcc00; /* Yellow heading text */
-        }
-
-        p {
-            color: #b3b3b3; /* Light gray paragraph text */
-        }
-<body>
 <h1>Hi, I'm Daniel, an <a href="https://www.linkedin.com/in/daniel-carty-055a8a85/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -33,7 +17,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-carty-055a8a85/
-</body>
+
 <!---- 👋 Hi, I’m @dcarter300
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
