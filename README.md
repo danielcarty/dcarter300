@@ -14,7 +14,7 @@
         p {
             color: #b3b3b3; /* Light gray paragraph text */
         }
-
+<body>
 <h1>Hi, I'm Daniel, an <a href="https://www.linkedin.com/in/daniel-carty-055a8a85/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -33,7 +33,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-carty-055a8a85/
-
+</body>
 <!---- 👋 Hi, I’m @dcarter300
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
