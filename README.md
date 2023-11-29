@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Purple and Black Theme</title>
-    <style>
+
         body {
             background-color: #3b1f4a; /* Purple background */
             color: #ffffff; /* White text */
@@ -20,27 +14,8 @@
         p {
             color: #b3b3b3; /* Light gray paragraph text */
         }
-    </style>
-</head>
-<body>
 
-    <header>
-        <h1>Welcome to My Purple and Black Website</h1>
-    </header>
-
-    <section>
-        <h2>About Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2023 Purple & Black Theme</p>
-    </footer>
-
-</body>
-</html>
-
-<h1>Hi, I'm Jane, an <a href="https://linkedin.com/in/JaneDoe">IT Professional</a>☺</h1>
+<h1>Hi, I'm Daniel, an <a href="https://www.linkedin.com/in/daniel-carty-055a8a85/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -55,7 +30,7 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[
+
 
 [linkedin]: https://www.linkedin.com/in/daniel-carty-055a8a85/
 
